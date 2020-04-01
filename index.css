@@ -41,7 +41,7 @@ div {
 }
 
 .card-wrapper {
-  width: 350px;
+  width: 300px;
   margin: 3em auto;
   padding: 0;
   border-radius: 5px;
@@ -129,7 +129,7 @@ div {
 }
 
 /* Media queries */
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 1440px) {
   .card-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
